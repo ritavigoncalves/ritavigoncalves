@@ -3,7 +3,6 @@
 I'm a data analyst :bar_chart:
 
 - I’m currently enthusiastic about Python & Open-Source :snake: :panda_face:
-- I’m looking to collaborate on new projects :mount_fuji:
 
 <!--
 **ritavigoncalves/ritavigoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
