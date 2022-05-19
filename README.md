@@ -2,7 +2,8 @@
 
 I'm a data analyst :bar_chart:
 
-- I’m currently enthusiastic about Python & Open-Source :snake: :panda_face:
+- I’m enthusiastic about Python & Open-Source :snake: :panda_face:
+- Here's a bit more about me: [Resume](https://github.com/ritavigoncalves/ritavigoncalves#:~:text=Rita%20Goncalves%20Data%202022%20CV.pdf)
 
 <!--
 **ritavigoncalves/ritavigoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
